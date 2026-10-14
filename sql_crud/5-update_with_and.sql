@@ -1,1 +1,1 @@
-UPDATE price FROM books SET price = price * 0.9 WHERE genre = 'Tech' and stock > 5
+UPDATE books SET price = price * 0.9 WHERE genre = 'Tech' and stock > 5
