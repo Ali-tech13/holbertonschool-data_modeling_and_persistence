@@ -1,1 +1,1 @@
-UPDATE books WHERE published_year < 2000 SET stock = stock + 5
+UPDATE books SET stock = stock + 5 WHERE published_year < 2000
