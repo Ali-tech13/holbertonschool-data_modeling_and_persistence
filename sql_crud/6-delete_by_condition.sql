@@ -1,0 +1,1 @@
+DELETE WHERE stock = 0
